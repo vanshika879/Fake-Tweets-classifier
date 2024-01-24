@@ -22,4 +22,4 @@ Utilized the CountVectorizer to convert text data into a numerical format suitab
 
 # Results:
 
-Naive Bayes and KNN performed well in terms of both accuracy and precision.
+I have used decision tree and naive bayes countvectorizer and Decision Tree is giving me best accuracy.
